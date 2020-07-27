@@ -1,4 +1,4 @@
-package Activity;
+package Assignment;
 
 public class ArrayIntersecting {
 	static void intersection(int a[], int b[], int n, int m) {

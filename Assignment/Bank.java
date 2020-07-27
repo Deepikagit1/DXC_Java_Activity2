@@ -1,4 +1,4 @@
-package Activity;
+package Assignment;
 
 
 public interface Bank {

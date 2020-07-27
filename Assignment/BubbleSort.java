@@ -1,4 +1,4 @@
-package Activity;
+package Assignment;
 
 import java.util.Arrays;
 

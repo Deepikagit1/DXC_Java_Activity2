@@ -1,4 +1,4 @@
-package Activity;
+package Assignment;
 
 class LoopingAlgarithm {
 	
